@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rumah" size="1.000000 1.414427" />
+    <ImageTarget name="mepekasur" size="1.000000 1.414427" />
+    <ImageTarget name="angklung" size="1.000000 1.414427" />
+    <ImageTarget name="barong" size="1.000000 1.414427" />
+  </Tracking>
+</QCARConfig>
